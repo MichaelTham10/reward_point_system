@@ -1,0 +1,51 @@
+﻿# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+# Visual Studio cache/options directory
+vs/
+# Roslyn cache directories
+*.ide/
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+# NUNIT test results
+*.VisualState.xml
+TestResult.xml
+# Build artifacts and temporary files
+*.tmp
+*.log
+*.pch
+*.pdb
+*.ilk
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+# Publish Web Output
+*.Publish.xml
+*.azurePubxml
+# Windows Azure Build Output
+csx/
+*.build.csdef
+# Node.js modules (if applicable)
+node_modules/
+# Backup & report files from converting old project files to newer versions
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+# SQL Server files
+*.mdf
+*.ldf
+# Others
+Thumbs.db
+Desktop.ini

@@ -36,11 +36,11 @@ static void Main()
     //List<long> rpIds = simpleObjMakerServices.SimpleRewardPointsRedemptionIdsMaker();
 
     //List<RewardPoints> rewardPointsBfr = simpleObjMakerServices.SimpleRewardPointsEntitiesMaker();
-    //Console.WriteLine("REWARD POINTS BEFORE REDEEMED" + JsonSerializer.Serialize(rewardPointsBfr));
+    //Console.WriteLine("REWARD POINTS BEFORE REDEEMED\n" + JsonSerializer.Serialize(rewardPointsBfr));
     //Console.WriteLine();
 
     //List<RewardPoints> rewardPointsAft = rewardPointsServices.RewardPointsRedemption(rpIds);
-    //Console.WriteLine("REWARD POINTS BEFORE REDEEMED" + JsonSerializer.Serialize(rewardPointsAft));
+    //Console.WriteLine("REWARD POINTS AFTER REDEEMED\n" + JsonSerializer.Serialize(rewardPointsAft));
     //Console.WriteLine();
 
     #endregion
